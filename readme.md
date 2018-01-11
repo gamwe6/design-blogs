@@ -1,15 +1,24 @@
 # Design Blogs
 
 - Airbnb https://airbnb.design/
+- Asana https://blog.asana.com/category/design/
 - Bitly https://medium.com/bitly-design
+- Deliveroo https://medium.com/deliveroo-design
 - DigitalOcean https://blog.digitalocean.com/tag/design/
 - Dropbox https://dropbox.design
+- Ericsson https://www.ericsson.com/strategicdesign/
 - Etsy https://medium.com/etsy-design
+- Facebook http://facebook.design
 - Flipboard https://medium.com/flipboard-design
 - Google https://design.google
 - Instacart https://design.instacart.com/
+- LibreOffice https://design.blog.documentfoundation.org
 - Lyft https://design.lyft.com
 - Medium https://medium.design
 - Microsoft https://medium.com/microsoft-design
+- Netflix https://medium.com/@netflixdesign
 - Slack https://slack.design
+- Strava https://strava.design
 - Uber https://medium.com/uber-design
+- Ubuntu https://design.canonical.com
+- Yelp https://medium.com/yelp-design

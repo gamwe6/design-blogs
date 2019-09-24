@@ -18,6 +18,7 @@
 - Microsoft https://medium.com/microsoft-design
 - Netflix https://medium.com/@netflixdesign
 - Slack https://slack.design
+- Spotify https://spotify.design/
 - Strava https://strava.design
 - Uber https://medium.com/uber-design
 - Ubuntu https://design.canonical.com

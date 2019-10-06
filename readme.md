@@ -1,6 +1,7 @@
 # Design Blogs
 
 - Airbnb https://airbnb.design/
+- Amazon https://amazon.design/
 - Asana https://blog.asana.com/category/design/
 - Bitly https://medium.com/bitly-design
 - Deliveroo https://medium.com/deliveroo-design

@@ -13,6 +13,7 @@
 - Flipboard https://medium.com/flipboard-design
 - Google https://design.google
 - Instacart https://design.instacart.com/
+- Intercom https://intercom.design
 - LibreOffice https://design.blog.documentfoundation.org
 - Lyft https://design.lyft.com
 - Medium https://medium.design
